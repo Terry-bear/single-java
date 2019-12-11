@@ -57,7 +57,7 @@ public class OrderServiceImpl implements OrderService {
 
         String orderId = sid.nextShort();
 
-        UserAddress address = addressService.queryUserAddres(userId, addressId);
+        UserAddress address = addressService.queryUserAddress(userId, addressId);
 
         // 1. 新订单数据保存
         Orders newOrder = new Orders();
