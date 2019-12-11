@@ -32,9 +32,12 @@ build/
 .vscode/
 /src/test/
 /src/test/java/com/ft/shipper/
-single-demo-api/target/
-single-demo-common/target/
-single-demo-mapper/target/
-single-demo-pojo/target/
-single-demo-service/target/
-src/main/
+
+### auto deploy gitignore ###
+.sql.json.version/
+single-java-api/target/
+single-java-common/target/
+single-java-mapper/target/
+single-java-pojo/target/
+single-java-service/target/
+sql.json.pdman.json

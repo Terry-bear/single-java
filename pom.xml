@@ -8,11 +8,11 @@
     <artifactId>single-java</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>single-demo-common</module>
-        <module>single-demo-pojo</module>
-        <module>single-demo-mapper</module>
-        <module>single-demo-service</module>
-        <module>single-demo-api</module>
+        <module>single-java-common</module>
+        <module>single-java-pojo</module>
+        <module>single-java-mapper</module>
+        <module>single-java-service</module>
+        <module>single-java-api</module>
     </modules>
 
     <!--
